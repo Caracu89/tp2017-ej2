@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501444050 source:d:\codigo c++\tp2017\ejercicio 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
